@@ -1,3 +1,4 @@
+![headshot](Headshot.JPG)
 # HelloWorld
 
 This is my first repository!

@@ -11,3 +11,5 @@ My younger passion for sports has become beset by an avid passion for technology
 I am learning to program via HarvardX CS50x, FreeCodeCamp, and other free resources.
 
 Currently, I work as the accounting manager for a telematics installation company in the USA. 
+
+My favorite books include the LOTR series, the Expeditionary Force series, and anything related to ancient history.
